@@ -1,0 +1,5 @@
+ai-os-dev.squashfs 1 http://alwaysinnovating.s3.amazonaws.com/release/2010-12.a/ai-os-dev.squashfs
+ubuntu.squashfs 1 http://alwaysinnovating.s3.amazonaws.com/release/2010-12.a/ubuntu.squashfs
+android.squashfs 1 http://alwaysinnovating.s3.amazonaws.com/release/2010-12.a/android.squashfs
+sd-card.gz 1 http://alwaysinnovating.s3.amazonaws.com/release/2010-12.a/sd-card.gz
+ai-all.zip 1 http://alwaysinnovating.s3.amazonaws.com/release/2010-12.a/ai-all.zip
